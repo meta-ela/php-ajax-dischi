@@ -21,6 +21,5 @@
             <?php include "template/card.php" ?>
         </div>
     </main>
-
 </body>
 </html>
