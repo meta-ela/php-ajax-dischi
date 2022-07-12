@@ -6,6 +6,7 @@
 }
 
 body {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
     color: #2c3e50;
     height: 100vh;
     background-color: var(--darkerblue);
@@ -30,4 +31,15 @@ header {
     aspect-ratio: 1 / 1;
     overflow: hidden;
     margin-bottom: 1rem;
+}
+
+.card {
+    height: 100%;
+    background-color: var(--darkblue);
+    padding: 1rem;
+    border-radius: 0;
+}
+
+h6 {
+    color: var(--grey);
 }

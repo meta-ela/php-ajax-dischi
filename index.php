@@ -16,7 +16,11 @@
     <title>PHP DISCHI</title>
 </head>
 <body>
-    <?php include "header.php" ?>
+    <?php include "template/header.php" ?>
+
+    <main class="overflow-auto">
+        <?php include "template/card.php" ?>
+    </main>
 
 </body>
 </html>
