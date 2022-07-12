@@ -18,7 +18,7 @@
     <main class="overflow-auto">
         <div class="container py-5">
             <!-- card album -->
-            <?php include "template/card.php" ?>
+            <?php include "template/card_php.php" ?>
         </div>
     </main>
 </body>

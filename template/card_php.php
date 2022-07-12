@@ -1,5 +1,5 @@
 <?php
-include "api/db.php";
+include "db/db.php";
 ?>
 
 <div class="row row-cols-5 g-3">

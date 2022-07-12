@@ -1,6 +1,6 @@
 <?php 
 
-require "db.php";
+require "/db/db.php";
 
 header("Content-Type: application/json");
 
