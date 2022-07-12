@@ -3,6 +3,41 @@ $dischi = [
     "success" => true,
     "response" => [
       [
+        "poster" => "https://i1.wp.com/lostingroove.com/wp-content/uploads/2022/06/unnamed-63.jpg?fit=1000%2C1000&ssl=1",
+        "title" => "Blood Moon",
+        "author" => "RY X",
+        "genre" => "Alt-Pop",
+        "year" => "2022",
+      ],
+      [
+        "poster" => "https://i.discogs.com/7IYk8oklzeizJp3NUnuGZe-Ntd42cT-EEOxEiuLsv88/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/OTcwLTE1NDY0NDI0/NzUtNDI4Ni5qcGVn.jpeg",
+        "title" => "Requiem EP",
+        "author" => "Apashe",
+        "genre" => "Dubstep",
+        "year" => "2018",
+      ],
+      [
+        "poster" => "https://www.rockshock.it/wp-content/uploads/2022/05/moderat-recwensione-more-data-1200x1200.jpg",
+        "title" => "More D4TA",
+        "author" => "Moderat",
+        "genre" => "Glitch",
+        "year" => "2022",
+      ],
+      [
+        "poster" => "https://www.termometropolitico.it/newmedia/2018/03/son-lux-brighter-wounds.jpg",
+        "title" => "Brighter Wounds",
+        "author" => "Son Lux",
+        "genre" => "Post-rpck",
+        "year" => "2018",
+      ],
+      [
+        "poster" => "https://www.ansa.it/webimages/img_457x/2022/3/17/a44cdd965d4e5c3bc0d61c29469b9435.jpg",
+        "title" => "Will of the people",
+        "author" => "Muse",
+        "genre" => "Post-rpck",
+        "year" => "2022",
+      ],
+      [
         "poster" => "https://images-na.ssl-images-amazon.com/images/I/51sBr4IWDwL.jpg",
         "title" => "New Jersey",
         "author" => "Bon Jovi",
