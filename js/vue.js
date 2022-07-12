@@ -7,7 +7,7 @@ new Vue({
 
     mounted() {
         axios
-            .get("/db/db.php")
+            .get("api/api.php")
             .then(resp => {
                 this.albumList = resp.data.response;
             })
